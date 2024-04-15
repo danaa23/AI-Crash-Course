@@ -19,3 +19,5 @@ L4 = [[2, 9, -5], [-1, 0, 4], [3, 1, 2]]
 for row in L4:
     for element in row:
         print(element)
+
+
